@@ -10,7 +10,7 @@ const Hero = props => {
     <React.Fragment>
       <section className="hero">
         <h1>
-          「全ては”ナンギョ”からはじまる」
+          全ては”ナンギョ”からはじまる
         </h1>
         <button onClick={scrollToContent} aria-label="scroll">
           <FaArrowDown />
@@ -32,6 +32,7 @@ const Hero = props => {
           height: 100px;
           padding: ${theme.space.inset.l};
           padding-top: ${theme.header.height.homepage};
+          padding-bottom: 250px;
         }
 
         h1 {
@@ -41,6 +42,7 @@ const Hero = props => {
           color: #F26419;
           line-height: ${theme.hero.h1.lineHeight};
           text-remove-gap: both 0 "Open Sans";
+          padding-bottom: 60px;
 
           :global(strong) {
             position: relative;

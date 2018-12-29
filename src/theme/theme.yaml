@@ -55,11 +55,11 @@ color:
     black: '#000000'
   brand:
     primary: &color-brand-primary '#FFB6C1'
-    primaryActive: '##FFB6C1'
-    light: '##FFB6C1'
-    lightActive: '##FFB6C1'
-    dark: '##FFB6C1'
-    darkActive: '##FFB6C1'
+    primaryActive: '#FFB6C1'
+    light: '#FFB6C1'
+    lightActive: '#FFB6C1'
+    dark: '#FFB6C1'
+    darkActive: '#FFB6C1'
   special:
     attention: &color-special-attention orange
   original:
@@ -110,6 +110,7 @@ text:
     primaryInverse: *color-white
     brand: *color-brand-primary
     attention: *color-special-attention
+    link: '#33658A'
   lineHeight:
     default: *font-line-height-l
   maxWidth:

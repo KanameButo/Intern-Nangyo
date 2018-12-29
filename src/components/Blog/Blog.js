@@ -10,7 +10,7 @@ const Blog = props => {
     <React.Fragment>
       <main className="main">
         <div className="message">
-          <h2>ナンギョ（南魚沼）</h2>
+          <h2>”ナンギョ”（南魚沼）</h2>
           <p>南魚沼のひとはナンギョと呼ぶ</p>
         </div>
         <ul>

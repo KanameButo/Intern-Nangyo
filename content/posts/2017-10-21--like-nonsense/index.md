@@ -1,8 +1,9 @@
 ---
-title: 企業説明会
+title: Day1 〜Welcomeランチ、企業説明会〜
 category: "インターン報告"
-cover: 企業説明会.jpg
+cover: Intern52.jpg
 author: Kaname Buto
 ---
 
-３社が事業内容や抱えている問題を発表されました。
+六日町駅に集合した後、駅前にあるぶら坊というお店へ。
+
