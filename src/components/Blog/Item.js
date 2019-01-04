@@ -194,7 +194,7 @@ const Item = props => {
           }
           .meta {
             padding: ${`calc(${theme.space.default} * 1.5) calc(${theme.space.default} * 2)
-              calc(${theme.space.default} * 0.5)`};
+              calc(${theme.space.default} * 2)`};
           }
           p {
             padding: ${`0 calc(${theme.space.default} * 2)`};

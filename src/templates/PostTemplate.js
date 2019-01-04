@@ -19,6 +19,7 @@ const PostTemplate = props => {
     },
     pageContext: { next, prev }
   } = props;
+  console.log(props) 
 
   return (
     <React.Fragment>
@@ -65,7 +66,7 @@ export const postQuery = graphql`
         category
         cover {
           childImageSharp {
-            resize(width: 300) {
+            resize(width: 698,height: 470) {
               src
             }
           }

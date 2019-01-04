@@ -10,11 +10,12 @@ const Hero = props => {
     <React.Fragment>
       <section className="hero">
         <h1>
-          全ては”ナンギョ”からはじまる
+          ”ナンギョ”から、はじまる
         </h1>
         <button onClick={scrollToContent} aria-label="scroll">
           <FaArrowDown />
         </button>
+        <div className="click-area" onClick={scrollToContent}></div>
       </section>
 
       {/* --- STYLES --- */}
@@ -24,6 +25,7 @@ const Hero = props => {
           background: ${theme.hero.background};
           background-image: url(${backgrounds.mobile});
           background-size: cover;
+          background-position: 50%;
           color: #F26419;
           display: flex;
           flex-flow: column nowrap;
@@ -32,18 +34,19 @@ const Hero = props => {
           height: 100px;
           padding: ${theme.space.inset.l};
           padding-top: ${theme.header.height.homepage};
-          padding-bottom: 250px;
         }
 
         h1 {
           text-align: center;
-          font-size: ${theme.hero.h1.size};
+          font-size: calc(112.5% + 0.5vw);
           margin: ${theme.space.stack.l};
           color: #F26419;
           line-height: ${theme.hero.h1.lineHeight};
           text-remove-gap: both 0 "Open Sans";
-          padding-bottom: 60px;
-
+          font-family: "游ゴシック体", YuGothic, "游ゴシック", "Yu Gothic", "メイリオ", sans-serif;
+          position: absolute;
+          top: 210px;
+        
           :global(strong) {
             position: relative;
 
@@ -62,14 +65,16 @@ const Hero = props => {
         }
 
         button {
-          background: #F26419;
-          border: 0;
-          border-radius: 50%;
-          font-size: ${theme.font.size.m};
-          padding: ${theme.space.s} ${theme.space.m};
+          background: #00000000;
+          border: none;
+          font-size: calc(112.5% + 0.5vw);
+          padding-right: 450px;
+          padding-left: 450px;
+          padding-top: 100px;
+          padding-bottom: 5px;
+          position: absolute;
+          top: 180px;
           cursor: pointer;
-          width: ${theme.space.xl};
-          height: ${theme.space.xl};
 
           &:focus {
             outline-style: none;
@@ -86,6 +91,15 @@ const Hero = props => {
             animation-name: buttonIconMove;
             animation-iteration-count: infinite;
           }
+        }
+
+        .click-area {
+          position: relative;
+          top: 10px;
+          bottom: 60px;
+          width: 100%;
+          height: 50%;
+          cursor: pointer;
         }
 
         @keyframes buttonIconMove {

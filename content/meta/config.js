@@ -1,23 +1,23 @@
 module.exports = {
-  siteTitle: "InternBlog", // <title>
-  shortSiteTitle: "InternBlog", // <title> ending for posts and pages
-  siteDescription: "InternBlog is a GatsbyJS starter.",
+  siteTitle: "NangyoBlog", // <title>
+  shortSiteTitle: "NangyoBlog", // <title> ending for posts and pages
+  siteDescription: "NangyoBlog is a GatsbyJS starter.",
   siteUrl: "https://gatsby-starter-hero-blog.greglobinski.com",
   // pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
 
   /* author */
-  authorName: "Kaname Buto",
-  authorTwitterAccount: "Kaname Buto",
+  authorName: "Btoom",
+  authorTwitterAccount: "ブトム",
 
   /* info */
-  headerTitle: "Kaname Buto",
-  headerSubTitle: "South Uonuma Blog",
+  headerTitle: "Btoom",
+  headerSubTitle: "Nangyo Blog",
 
   /* manifest.json */
-  manifestName: "InternBlogr",
-  manifestShortName: "InternBlog", // max 12 characters
+  manifestName: "NangyoBlog",
+  manifestShortName: "NangyoBlog", // max 12 characters
   manifestStartUrl: "/index.html",
   manifestBackgroundColor: "white",
   manifestThemeColor: "#666",
@@ -32,8 +32,7 @@ module.exports = {
 
   // social
   authorSocialLinks: [
-    { name: "github", url: "https://github.com/greglobinski" },
-    { name: "twitter", url: "https://twitter.com/greglobinski" },
-    { name: "facebook", url: "http://facebook.com/greglobinski" }
+    { name: "github", url: "https://github.com/KanameButo" },
+    { name: "twitter", url: "https://twitter.com/nj29xgx" },
   ]
 };

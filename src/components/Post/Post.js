@@ -7,7 +7,7 @@ import Headline from "../Article/Headline";
 import Bodytext from "../Article/Bodytext";
 import Meta from "./Meta";
 import Author from "./Author";
-import Comments from "./Comments";
+import Comments from "./Comment";
 import NextPrev from "./NextPrev";
 
 const Share = asyncComponent(() =>
@@ -24,7 +24,7 @@ const Post = props => {
     post: {
       html,
       fields: { prefix, slug },
-      frontmatter: { title, author, category }
+      frontmatter: { title, author, category, cover }
     },
     authornote,
     facebook,
