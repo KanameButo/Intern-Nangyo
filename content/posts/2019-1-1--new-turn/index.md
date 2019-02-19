@@ -3,6 +3,7 @@ title: 企業の人材不足をシニア層の労働力で解決！？　子・�
 category: "開発プロダクト"
 cover: サムネ.png
 author: Btoom
+description: 2日目は魚沼の里へ。
 ---
 <br />
 

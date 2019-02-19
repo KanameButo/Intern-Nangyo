@@ -3,6 +3,7 @@ title: Day2　名酒”八海山”の雪室の秘密・渋谷社長と南魚沼
 category: "インターン日記"
 cover: Intern14^.jpg
 author: Btoom
+description: 2日目は魚沼の里へ。
 ---
 
 ![image](./Intern14.png)

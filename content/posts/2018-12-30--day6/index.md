@@ -3,6 +3,7 @@ title: Day6　インターン合宿もいよいよ大詰め、最終報告会
 category: "インターン日記"
 cover: Intern335^.JPG
 author: Btoom
+description: 2日目は魚沼の里へ。
 ---
 
 ![image](./Intern335.JPG)

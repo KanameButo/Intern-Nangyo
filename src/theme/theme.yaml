@@ -64,6 +64,7 @@ color:
     attention: &color-special-attention orange
   original:
     title: &color-brand-title '#FFB6C1'
+    button: &color-brand-botton '#FFA69E'
 # FONT
 font:
   # font options
@@ -88,7 +89,7 @@ font:
     m: &font-line-height-m 1.3
     l: &font-line-height-l 1.4
     xl: &font-line-height-l 1.5
-    xxl: &font-line-height-l 1.6
+    xxl: &font-line-height-l 1.6 
     reset: &font-line-height-reset 1
 #TIME
 time:

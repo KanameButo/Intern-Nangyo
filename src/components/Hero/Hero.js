@@ -75,6 +75,7 @@ const Hero = props => {
           position: absolute;
           top: 180px;
           cursor: pointer;
+          
 
           &:focus {
             outline-style: none;

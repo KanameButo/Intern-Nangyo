@@ -60,6 +60,7 @@ export const postQuery = graphql`
         slug
         prefix
       }
+      excerpt
       frontmatter {
         title
         description

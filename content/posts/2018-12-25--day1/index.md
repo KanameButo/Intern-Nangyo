@@ -4,6 +4,7 @@ description: インターン初日は六日町駅に集合した後、駅前に�
 category: "インターン日記"
 cover: Intern52.jpg
 author: Btoom
+description: インターン初日は六日町駅からスタート。
 ---
 
 ![image](./Intern52^.jpg)
