@@ -19,7 +19,7 @@ const PostTemplate = props => {
     },
     pageContext: { next, prev }
   } = props;
-  console.log(props) 
+  console.log(props)
 
   return (
     <React.Fragment>
@@ -62,6 +62,7 @@ export const postQuery = graphql`
       }
       frontmatter {
         title
+        description
         author
         category
         cover {
