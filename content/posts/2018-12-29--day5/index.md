@@ -3,6 +3,7 @@ title: Day5　道の駅「雪あかり」でお買い物・魚沼ラーメンat�
 category: "インターン日記"
 cover: Intern205^.JPG
 author: Btoom
+description: 2日目は魚沼の里へ。
 ---
 
 ![image](./Intern205.JPG)

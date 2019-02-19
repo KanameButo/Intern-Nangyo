@@ -3,6 +3,7 @@ title: Day1　ぶら坊でランチ・古民家開発合宿の幕開け
 category: "インターン日記"
 cover: Intern52.jpg
 author: Btoom
+description: インターン初日は六日町駅からスタート。
 ---
 
 ![image](./Intern52^.jpg)

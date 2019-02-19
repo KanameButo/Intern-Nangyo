@@ -3,6 +3,7 @@ title: Day3　南魚沼の課題解決のために開発スタート
 category: "インターン日記"
 cover: Intern139^.JPG
 author: Btoom
+description: 2日目は魚沼の里へ。
 ---
 
 ![image](./Intern139.JPG)

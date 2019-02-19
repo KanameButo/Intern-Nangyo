@@ -3,6 +3,7 @@ title: Day4　中間報告会、突然の雪合戦
 category: "インターン日記"
 cover: Intern429^.JPG
 author: Btoom
+description: 2日目は魚沼の里へ。
 ---
 
 ![image](./Intern429.JPG)

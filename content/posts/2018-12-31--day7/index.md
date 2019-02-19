@@ -3,6 +3,7 @@ title: Day7　”かまくら×IT”をついに実現！さらば南魚沼
 category: "インターン日記"
 cover: Intern533^.JPG
 author: Btoom
+description: 2日目は魚沼の里へ。
 ---
 
 ![image](./Intern533.JPG)
