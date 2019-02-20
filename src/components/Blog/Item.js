@@ -202,7 +202,7 @@ const Item = props => {
           li {
             &:hover {
               border: 1px solid ${theme.line.color};
-              box-shadow: 0px 3px 2px rgba(0, 0, 0, 0.03);
+              box-shadow: 0px 3px 2px rgba(0, 0, 0, 0);
 
               &:after {
                 bottom: ${`calc(${theme.space.default} * -2.5)`};

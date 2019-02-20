@@ -1,18 +1,18 @@
 module.exports = {
   siteTitle: "NangyoBlog", // <title>
   shortSiteTitle: "NangyoBlog", // <title> ending for posts and pages
-  siteDescription: "NangyoBlogは南魚沼の魅力を発信しています",
-  siteUrl: "https://nangyo-blog.netlify.com/",
+  siteDescription: "NangyoBlog is a GatsbyJS starter.",
+  siteUrl: "https://gatsby-starter-hero-blog.greglobinski.com",
   // pathPrefix: "",
-  siteImage: "thumbnail.png",
+  siteImage: "preview.jpg",
   siteLanguage: "en",
 
   /* author */
-  authorName: "ブトム",
+  authorName: "Btoom",
   authorTwitterAccount: "ブトム",
 
   /* info */
-  headerTitle: "Nangyo Blog",
+  headerTitle: "Btoom",
   headerSubTitle: "Nangyo Blog",
 
   /* manifest.json */

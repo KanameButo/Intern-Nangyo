@@ -11,4 +11,4 @@ menuTitle: 地元民おすすめ
 <br />
 <br />
 
-<font color="LimeGreen">今後も徐々に追加していく予定です</font>
+今後も徐々に追加していく予定です
