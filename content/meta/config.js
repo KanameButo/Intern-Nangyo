@@ -1,10 +1,10 @@
 module.exports = {
-  siteTitle: "NangyoBlog", // <title>
-  shortSiteTitle: "NangyoBlog", // <title> ending for posts and pages
-  siteDescription: "NangyoBlog is a GatsbyJS starter.",
-  siteUrl: "https://gatsby-starter-hero-blog.greglobinski.com",
+  siteTitle: "ナンギョブログ", // <title>
+  shortSiteTitle: "ナンギョブログ", // <title> ending for posts and pages
+  siteDescription: "ナンギョブログは南魚沼の魅力を発信しています",
+  siteUrl: "https://nangyo-blog.netlify.com/",
   // pathPrefix: "",
-  siteImage: "preview.jpg",
+  siteImage: "Intern28.jpg",
   siteLanguage: "en",
 
   /* author */
